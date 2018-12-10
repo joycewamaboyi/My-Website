@@ -6,50 +6,67 @@
 }
 #name{
     text-align: justify;
-    font-size: 150%;
+    font-size: 17px;
     flex-direction: column;
     color: grey;
+    font-style: normal;
+    line-height: 23px;
+    text-rendering: optimizeLegibility;
+    margin-bottom: 17px;
+    display: block;
+    font-family: 'Arial Narrow',Arial, Helvetica, sans-serif;
+    line-height: 1.4em;
+    text-transform: none;
+    letter-spacing: 0em;
+    font-weight: 400;
+    font-style: normal
     
     
 
 }
 .one{
     font-style: italic;
-    font-size: 160%
+    font-size: 20px;
+    font-family: "Arial";
+    letter-spacing: 0em;
+    display: block;
+        
     
 }
 footer{
+    color: antiquewhite;
     font-style: italic;
+    text-align: center;
+    background-color: black;
+
 }
 .fa {
-    padding: 20px;
-    font-size: 30px;
-    width: 50px;
+    padding: 5px;
+    font-size: 10px;
+    width: 5px;
     text-align: center;
     text-decoration: none;
     margin: 5px 2px;
 }
-.fa:hover {
-    opacity: 0.7;
-}
-.fa-Github {
-    background: #bb0000;
+
+.fa-github {
+    
     color: white;
   }
 .fa-twitter {
-    background: #55ACEE; 
+    
     color: white;
   }
   .fa-linkedin {
-    background: #007bb5;
+    
     color: white;
   }
   .fa-facebook {
-    background: #3B5998;
+    
     color: white;
   }
 .social{
-    text-align: right;
+    text-align: center;
 }
 h1{
     color: #007bb5;
