@@ -1,0 +1,9 @@
+.first{
+    width:  30%;
+    height: 30%;
+    float: left;
+}
+#name{
+    text-align: justify;
+    font-size: 150%;
+}
