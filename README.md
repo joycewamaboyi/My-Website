@@ -7,7 +7,7 @@ Portfolio about my Background and the projects i have created linked in Github
 ### project setup instructions
 use google chrome and VS code
 ### link to live site on GitHub Pages
-https://github.com/joycewamaboyi/My-Website
+https://joycewamaboyi.github.io/My-Website/
 ### copyright and license information
-Copyright &copy; 2018 by Joyce
+Copyright &copy; 2018 by Joyce 
 
