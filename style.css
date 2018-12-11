@@ -1,9 +1,7 @@
 .first{
-    width:  40%;
-    height: 40%;
-    float: left;
-    margin-right: 20px;
-    top: 0%;
+    width:  600px;
+    height: 750px;
+    
 }
 #name{
     text-align: justify;
@@ -76,5 +74,11 @@ footer{
 }
 h1{
     color: #007bb5;
+}
+main{
+    display: flex;
+}
+.three,.four{
+    padding: 10px;
 }
   
